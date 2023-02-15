@@ -9,7 +9,7 @@ git clone https://github.com/kashyapkoutilya/Parking-space-detection-using-Compu
 - Goto the cloned folder.
 - Goto the Directory where the project is
 ```
-    using cd (space)
+using cd (space)
 
 ```
 - Upgrade pip with mentioned command below.
