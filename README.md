@@ -19,7 +19,7 @@ pip install --upgrade pip
 
 - Run the code with mentioned command below.
 ```
-`main.py`
+`main.py` 
 ```
 
  
