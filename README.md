@@ -27,7 +27,7 @@ pip install --upgrade pip
 
 
 <p align="center">
-<img src="data/results/image.jpg">
+<img src="image.jpg">
 
 ## Used The Concepts
 - OOP concepts
