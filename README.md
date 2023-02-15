@@ -7,7 +7,8 @@ Using CV we generate coordinates and track the empty parking slots
 git clone https://github.com/kashyapkoutilya/Parking-space-detection-using-Computer-Vision.git
 ```
 - Goto the cloned folder.
-- Goto the Directory where the project is.
+- Goto the Directory where the project is
+```
     using cd (space)
 
 ```
@@ -15,11 +16,11 @@ git clone https://github.com/kashyapkoutilya/Parking-space-detection-using-Compu
 ```
 pip install --upgrade pip
 ```
-- Install requirements with mentioned command below.
-```
-```
+
 - Run the code with mentioned command below.
+```
 `main.py`
+```
 
  
 ## Example Results
